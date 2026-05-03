@@ -1,4 +1,5 @@
 <!-- HEADER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=header&text=&animation=twinkling&fontColor=ffe6e6&bg=160a0d" />
 </div>
@@ -6,10 +7,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+L%C3%AA+Quang+Tr%C6%B0%E1%BB%9Dng+(Leee);IT+Student+%F0%9F%87%BB%F0%9F%87%B3+from+Vietnam;Java+%7C+Spring+%7C+React+Developer;Always+learning%2C+always+building+%E2%9C%A6" alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lqt247&style=for-the-badge&color=ff4d4d&label=PROFILE+VIEWS"/>
+</div>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF6dzNudmhwcHo3c3phNm5pcHVka2FvazRzOGd2eTZsODZ2bXF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" width="200"/>
 </div>
+
+
 
 ---
 
