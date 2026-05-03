@@ -1,4 +1,17 @@
-<h2 align="center">Hi 👋! I'm Lê Quang Trường (aka Leee) — an IT student from Vietnam.</h2>
+<!-- HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=header&text=&animation=twinkling&fontColor=ffe6e6&bg=160a0d" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+L%C3%AA+Quang+Tr%C6%B0%E1%BB%9Dng+(Leee);IT+Student+%F0%9F%87%BB%F0%9F%87%B3+from+Vietnam;Java+%7C+Spring+%7C+React+Developer;Always+learning%2C+always+building+%E2%9C%A6" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF6dzNudmhwcHo3c3phNm5pcHVka2FvazRzOGd2eTZsODZ2bXF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" width="200"/>
+</div>
+
+---
 
 <!-- STATS -->
 <div align="center">
@@ -6,29 +19,38 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lqt247&layout=compact&langs_count=6&theme=transparent&bg_color=160a0d&title_color=ff4d4d&text_color=ffe6e6&border_color=3a1116" width="48%" />
 </div>
 
-<br>
-
-<!-- GIF (CENTER, NO FLOAT) -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xuZ3A0ZHVoanFpMGl2bGN3c3lobnB4MTFtaTB1cGI5eDliNHFkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX1CQy96FpAgOa4oEQ/giphy.gif" width="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lqt247&theme=dark&background=160a0d&border=3a1116&ring=ff4d4d&fire=ff8fa3&currStreakLabel=ffe6e6&sideLabels=ffe6e6&dates=cc9999&stroke=3a1116" width="60%"/>
 </div>
 
-<br>
+---
 
 <!-- TECH STACK -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="20"/>
+    &nbsp;Tech Stack
+  </h3>
+
+  ![Java](https://img.shields.io/badge/Java-ff4d4d?style=for-the-badge&logo=openjdk&logoColor=160a0d)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ff8fa3?style=for-the-badge&logo=javascript&logoColor=160a0d)
+  ![React](https://img.shields.io/badge/React-ffb3c1?style=for-the-badge&logo=react&logoColor=160a0d)
+  ![Spring](https://img.shields.io/badge/Spring-ff4d4d?style=for-the-badge&logo=spring&logoColor=160a0d)
+  ![HTML5](https://img.shields.io/badge/HTML5-ff6b6b?style=for-the-badge&logo=html5&logoColor=160a0d)
+  ![CSS3](https://img.shields.io/badge/CSS3-ff8fa3?style=for-the-badge&logo=css3&logoColor=160a0d)
+  ![MySQL](https://img.shields.io/badge/MySQL-ffb3c1?style=for-the-badge&logo=mysql&logoColor=160a0d)
+  ![Docker](https://img.shields.io/badge/Docker-ff4d4d?style=for-the-badge&logo=docker&logoColor=160a0d)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff6b6b?style=for-the-badge&logo=githubactions&logoColor=160a0d)
 </div>
 
-<br>
+---
+
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lqt247&bg_color=160a0d&color=ffe6e6&line=ff4d4d&point=ff8fa3&area=true&area_color=3a1116&border_color=3a1116&hide_border=false" width="95%"/>
+</div>
+
+---
 
 <!-- SOCIAL -->
 <div align="center">
@@ -46,9 +68,14 @@
   </a>
 </div>
 
-<br>
+---
 
 <!-- SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/lqt247/lqt247/output/snake.svg" />
+</div>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=80&section=footer&bg=160a0d" />
 </div>
