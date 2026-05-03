@@ -37,6 +37,7 @@
   ![React](https://img.shields.io/badge/React-ffb3c1?style=for-the-badge&logo=react&logoColor=160a0d)
   ![Spring](https://img.shields.io/badge/Spring-ff4d4d?style=for-the-badge&logo=spring&logoColor=160a0d)
   ![HTML5](https://img.shields.io/badge/HTML5-ff6b6b?style=for-the-badge&logo=html5&logoColor=160a0d)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-ffb3c1?style=for-the-badge&logo=tailwind-css&logoColor=160a0d)
   ![CSS3](https://img.shields.io/badge/CSS3-ff8fa3?style=for-the-badge&logo=css3&logoColor=160a0d)
   ![MySQL](https://img.shields.io/badge/MySQL-ffb3c1?style=for-the-badge&logo=mysql&logoColor=160a0d)
   ![Docker](https://img.shields.io/badge/Docker-ff4d4d?style=for-the-badge&logo=docker&logoColor=160a0d)
