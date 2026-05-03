@@ -10,7 +10,7 @@
 
 <!-- GIF (CENTER, NO FLOAT) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWo1bzlyaG53ZmtobDB6MjFncjYzc2YyaXdkOWkzdnRoc2o3cWx1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2XLoAphEiufV6/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2xuZ3A0ZHVoanFpMGl2bGN3c3lobnB4MTFtaTB1cGI5eDliNHFkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX1CQy96FpAgOa4oEQ/giphy.gif" width="250"/>
 </div>
 
 <br>
