@@ -52,9 +52,9 @@
 ---
 
 <!-- ACTIVITY GRAPH -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lqt247&bg_color=160a0d&color=ffe6e6&line=ff4d4d&point=ff8fa3&area=true&area_color=3a1116&border_color=3a1116&hide_border=false" width="95%"/>
-</div>
+</div> -->
 
 ---
 
