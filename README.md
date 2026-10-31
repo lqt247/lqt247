@@ -1,8 +1,8 @@
 <!-- HEADER -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d4d&height=120&section=header&text=&animation=twinkling&fontColor=ffe6e6&bg=160a0d" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+L%C3%AA+Quang+Tr%C6%B0%E1%BB%9Dng+(Leee);IT+Student+%F0%9F%87%BB%F0%9F%87%B3+from+Vietnam;Java+%7C+Spring+%7C+React+Developer;Always+learning%2C+always+building+%E2%9C%A6" alt="Typing SVG" />
@@ -19,10 +19,10 @@
 ---
 
 <!-- STATS -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lqt247&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&bg_color=160a0d&title_color=ff4d4d&text_color=ffe6e6&icon_color=ff4d4d&border_color=3a1116" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lqt247&layout=compact&langs_count=6&theme=transparent&bg_color=160a0d&title_color=ff4d4d&text_color=ffe6e6&border_color=3a1116" width="48%" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lqt247&theme=dark&background=160a0d&border=3a1116&ring=ff4d4d&fire=ff8fa3&currStreakLabel=ffe6e6&sideLabels=ffe6e6&dates=cc9999&stroke=3a1116" width="60%"/>
