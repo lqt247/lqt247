@@ -10,9 +10,9 @@
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lqt247&style=for-the-badge&color=ff4d4d&label=PROFILE+VIEWS"/>
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHF6dzNudmhwcHo3c3phNm5pcHVka2FvazRzOGd2eTZsODZ2bXF0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif" width="200"/>
-</div>
+</div> -->
 
 
 
